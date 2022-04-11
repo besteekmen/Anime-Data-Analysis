@@ -3,7 +3,8 @@
 
 * web_scraping.ipynb (TODO)
 * data_cleaning.ipynb
-* TODO
+* linear_regression.ipynb (TODO)
+* xgboost_regression.ipynb (TODO)
 
 ### Analysis Results
 Comparison of the total lifetime gross of anime distributors.
